@@ -1,0 +1,14 @@
+{
+    "users": [{
+        "id":1,
+        "name": "Swapnil",
+        "email": "swapnilaher137@gmail.com",
+        "mobile":7757924496
+        "
+    }, {
+        "id":2,
+        "name": "Sam",
+        "email": "wales@gmail.com",
+        "mobile":7020950048
+    }]
+}

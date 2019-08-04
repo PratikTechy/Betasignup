@@ -1,0 +1,16 @@
+{
+  "signUp": [
+    {
+      "id": 1,
+      "name": "swapnil",
+      "email": "swapnilaher137@gmail.com",
+      "mobile": "7757924496"
+    },
+    {
+      "id": 2,
+      "name": "Pratik",
+      "email": "swapnilaher17@gmail.com",
+      "mobile": "9422264720"
+    }
+  ]
+}
