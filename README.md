@@ -22,8 +22,8 @@ change directory to todo-app
 >cd todo-app
 Fetch the source code from my github library
 >git init
->git remote add origin 
->git pull origin master
+>git remote add origin https://github.com/PratikTechy/Betasignup.git
+>git pull origin master 
 Install all the modules required to run the given application with following command
 >npm install
 Run the application by using following command
