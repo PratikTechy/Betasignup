@@ -1,26 +1,34 @@
-# AjackusProject
+# Ajackus Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.9.
+Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-## Development server
+Prerequisites
+Note : You can skip this steps if you have Node ,npm and angularCLI installed on your system.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+To start with this, install node and npm
+NodeJs - How to install node?
+Install git
+Git - How to install Git?
+Use npm to install Angular CLI . Exceute this command
+>npm install -g @angular/cli
+Installing/ Running locally
+Create a folder named as todo-app at any local drive
 
-## Code scaffolding
+change directory to todo-app
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+>cd todo-app
+Fetch the source code from my github library
+>git init
+>git remote add origin https://github.com/ShahrukhSayyed/toDoApp.git
+>git pull origin master
+Install all the modules required to run the given application with following command
+>npm install
+Run the application by using following command
+>ng serve --open
+Navigate to http://localhost:4200/ via browser . You will see the application is running.
+Demo - Application is up and running here
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## Further help
 
